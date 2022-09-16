@@ -1,0 +1,15 @@
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\bin\Debug\net6.0\AddOverLoad.exe
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\bin\Debug\net6.0\AddOverLoad.deps.json
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\bin\Debug\net6.0\AddOverLoad.runtimeconfig.json
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\bin\Debug\net6.0\AddOverLoad.dll
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\bin\Debug\net6.0\AddOverLoad.pdb
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.csproj.AssemblyReference.cache
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.AssemblyInfoInputs.cache
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.AssemblyInfo.cs
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.csproj.CoreCompileInputs.cache
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.dll
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\refint\AddOverLoad.dll
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.pdb
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\AddOverLoad.genruntimeconfig.cache
+C:\Users\ajmil\source\repos\AddOverLoad\AddOverLoad\obj\Debug\net6.0\ref\AddOverLoad.dll
